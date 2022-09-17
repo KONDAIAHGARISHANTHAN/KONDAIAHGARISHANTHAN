@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KONDAIAHGARISHANTHAN
-- 👀 I’m interested in developing the android applications
+- 👀 I’m interested in android app applications
 - 🌱 I’m currently learning Postman Tool
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
